@@ -84,7 +84,7 @@ P = '\033[1;37m'
 def fuck():
     user=[]
     os.system('xdg-open https://www.facebook.com/profile.php?id=100089790850149&mibextid=ZbWKwL')
-    os.system('espeak/love you all 
+    os.system('espeak\'love you all')
     print(logo)
     print('[+] SIM CODE BD=> 016•017•018•019')
     nude = input('\033[1;32m[\033[1;32m?\033[1;32m] SIM CODE : ')
